@@ -1,0 +1,3 @@
+// THE FOLLOWING ARE PACKAGES USED IN THIS PROJECT
+
+// npm create vite@latest
