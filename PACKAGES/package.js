@@ -9,3 +9,7 @@
 // npm i react-router-dom
 
 // npm i react-icons
+
+// npm init -y
+
+// npm install express 
