@@ -7,3 +7,5 @@
 // npx tailwindcss init -p
 
 // npm i react-router-dom
+
+// npm i react-icons
